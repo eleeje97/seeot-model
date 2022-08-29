@@ -132,4 +132,4 @@ dmypy.json
 .idea
 
 # checkpoints/
-human_parsing/checkpoints/
+human_parsing/checkpoints/*
