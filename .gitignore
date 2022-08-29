@@ -131,5 +131,6 @@ dmypy.json
 # Pycharm
 .idea
 
-# checkpoints/
+# models
 human_parsing/checkpoints/*
+openpose/model/*
