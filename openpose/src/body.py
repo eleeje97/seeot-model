@@ -160,7 +160,7 @@ class Body(object):
         for idx, peak in enumerate(all_peaks):
             if len(peak) == 0:
                 not_peak_idx.append(idx)
-        print(not_peak_idx)
+        # print(not_peak_idx)
 
         for k in range(len(mapIdx)):
             if k not in special_k:
