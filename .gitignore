@@ -1,5 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+*/__pycache__/
+**/__pycache__/
 *.py[cod]
 *$py.class
 
@@ -134,3 +136,5 @@ dmypy.json
 # models
 human_parsing/checkpoints/*
 openpose/model/*
+dior/checkpoint/*
+dior/checkpoints/*
