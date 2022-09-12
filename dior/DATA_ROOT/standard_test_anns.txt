@@ -1,0 +1,13 @@
+pose
+fashionMENTees_Tanksid0000595506_1front.jpg
+fashionMENTees_Tanksid0000595506_2side.jpg
+fashionMENTees_Tanksid0000595506_4full.jpg
+fashionMENTees_Tanksid0000595506_7additional.jpg
+fashionWOMENBlouses_Shirtsid0000035501_1front.jpg
+fashionWOMENBlouses_Shirtsid0000035501_2side.jpg
+fashionWOMENBlouses_Shirtsid0000035501_3back.jpg
+attr
+plain, fashionMENSweatersid0000085901_1front.jpg
+plain, fashionWOMENSweatshirts_Hoodiesid0000697602_1front.jpg
+plain, test3.jpg
+plain, fashionMENJackets_Vestsid0000780001_4full.jpg
